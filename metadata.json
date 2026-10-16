@@ -1,0 +1,6 @@
+{
+  "name": "Clash of Clans 2 (CoC 2) - Tactical Village & Combat Simulator",
+  "description": "Interactive Clash of Clans village base builder, real-time battle attack simulator, army camp training planner, and defense strategy lab.",
+  "permissions": [],
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
